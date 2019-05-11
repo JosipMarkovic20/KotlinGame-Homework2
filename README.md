@@ -1,2 +1,2 @@
-# KotlinGame-Homework2
+# KotlinGame_Homework2
 Android dev academy 2019 2nd homework
